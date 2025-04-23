@@ -1,14 +1,14 @@
-#❤️Projeto para a Mari
+# ❤️Projeto para a Mari
 
 Este é um projeto de página web dedicado a uma pessoa especial. Ele apresenta uma coleção de fotos, um vídeo de fundo e uma mensagem carinhosa com uma pequena surpresa interativa. Foi feito com carinho, criatividade e muito amor. 💖
 
-##✨ Funcionalidades
+## ✨ Funcionalidades
 - 🎥 Vídeo de fundo em loop (sem áudio)
 - 🖼️ Galeria de fotos com hover animado
 - 💌 Botão com surpresa e animação de corações
 - 💻 Design responsivo usando Tailwind CSS
   
-##📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 ```
 📦 raiz/
@@ -18,11 +18,11 @@ Este é um projeto de página web dedicado a uma pessoa especial. Ele apresenta 
 └── fotos/             # Pasta com imagens utilizadas na galeria
 ```
 
-#🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 HTML5
 CSS3
 Tailwind CSS
 JavaScript Vanilla
 
-📸 Créditos das Imagens
+## 📸 Créditos das Imagens
 Todas as imagens utilizadas pertencem ao autor do projeto e foram capturadas de momentos especiais.
