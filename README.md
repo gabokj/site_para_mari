@@ -19,10 +19,10 @@ Este é um projeto de página web dedicado a uma pessoa especial. Ele apresenta 
 ```
 
 ## 🛠️ Tecnologias Utilizadas
-HTML5
-CSS3
-Tailwind CSS
-JavaScript Vanilla
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript Vanilla
 
 ## 📸 Créditos das Imagens
 Todas as imagens utilizadas pertencem ao autor do projeto e foram capturadas de momentos especiais.
